@@ -1,5 +1,5 @@
-# Your Name
-# Date
+# Davin Smith
+# 2-16-25
 # Assignment Name: P1HW2
 # Create a program that does some basic math on numbers that are entered
 
